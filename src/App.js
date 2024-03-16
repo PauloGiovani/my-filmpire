@@ -7,7 +7,6 @@ import SearchIcon from './search.svg';
 // Link 1: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=2318s
 // Link 2: https://filmpire.netlify.app/
 // Gist: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
-// Tempo: 45min
 // 2e6f553c
 
 // OMDb API URL
